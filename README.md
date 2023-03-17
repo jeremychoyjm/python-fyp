@@ -3,7 +3,7 @@ Final Year Project
 
 Dataset
 --
-https://universe.roboflow.com/fyp-xa0nw/fyp-no4lf/dataset/1
+https://universe.roboflow.com/fyp-xa0nw/fyp-no4lf
 
 Example
 --

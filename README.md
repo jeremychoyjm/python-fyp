@@ -1,6 +1,6 @@
 
 ```
-yolo segment train data=data.yaml model=jeremy.pt epochs=3 imgsz=640
+yolo segment train data=data.yaml model=jeremy.pt epochs=100 imgsz=640
 yolo segment predict model=jeremy.pt source=test.jpg save=true
 yolo export model=jeremy.pt format=onnx
 ``` 

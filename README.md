@@ -17,7 +17,6 @@ yolo export model=jeremy.pt format=onnx
 
 | Export Format                                                      | `format=`     | Metadata |
 |--------------------------------------------------------------------|---------------|----------|
-| [PyTorch](https://pytorch.org/)                                    | -             |  ✅      |
 | [TorchScript](https://pytorch.org/docs/stable/jit.html)            | `torchscript` |  ✅      |
 | [ONNX](https://onnx.ai/)                                           | `onnx`        |  ✅      |
 | [OpenVINO](https://docs.openvino.ai/latest/index.html)             | `openvino`    |  ✅      |

@@ -1,5 +1,8 @@
 Final Year Project
 --
+```
+pip install ultralytics
+```
 
 Dataset (Labelled)
 --
